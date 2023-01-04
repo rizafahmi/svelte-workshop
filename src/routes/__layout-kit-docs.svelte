@@ -59,7 +59,7 @@
   <KitDocsLayout {navbar} {sidebar}>
     <div class="logo" slot="navbar-left">
       <Button href="/">
-        <span role="img" aria-label="logo">🦊</span> HTML & CSS Tutorial
+        <span role="img" aria-label="logo">🦊</span> Svelte Workshop
       </Button>
     </div>
 
